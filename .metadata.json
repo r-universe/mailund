@@ -1,5 +1,9 @@
 [
   {
+    "package": "dynprog",
+    "oncran": true
+  },
+  {
     "package": "foolbox",
     "oncran": true
   }
