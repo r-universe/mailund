@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "foolbox"]
-	path = foolbox
-	url = https://github.com/mailund/foolbox
-	shallow = true
-	registered = true
 [submodule "dynprog"]
 	path = dynprog
 	url = https://github.com/mailund/dynprog
+	shallow = true
+	registered = true
+[submodule "foolbox"]
+	path = foolbox
+	url = https://github.com/mailund/foolbox
 	shallow = true
 	registered = true

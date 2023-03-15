@@ -1,10 +1,10 @@
 [
   {
-    "package": "foolbox",
+    "package": "dynprog",
     "oncran": true
   },
   {
-    "package": "dynprog",
+    "package": "foolbox",
     "oncran": true
   }
 ]
