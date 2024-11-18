@@ -5,6 +5,3 @@
 [submodule "dynprog"]
 	path = dynprog
 	url = https://github.com/mailund/dynprog
-[submodule "foolbox"]
-	path = foolbox
-	url = https://github.com/mailund/foolbox
